@@ -1,0 +1,31 @@
+{
+  "name": "first-express-app",
+  "description": "a fine piece of express art",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-beautify": "*",
+    "pm2": "*",
+    "grunt-bump": "*",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-deploy": "^0.1.7",
+    "grunt-npm": "*",
+    "grunt-scp": "*",
+    "grunt-ssh": "^0.12.1",
+    "hashmap": "~2.0.3",
+    "later": "~1.1.6",
+    "line-reader": "~0.2.4",
+    "underscore-node": "~0.1.2",
+    "winston": "~1.0.0",
+    "request-promise": "*",
+    "grunt-easy-rpm": "*",
+     "randomstring":"*"
+
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-deploy": "^0.1.7",
+    "grunt-ssh": "^0.12.1"
+  }
+}

@@ -13,7 +13,7 @@ config.day_start=1;
 config.day_end=7;
 config.hour_start="11";
 config.hour_end="17";
-config.calls_per_day="1";
+config.logs_per_day="10";
 config.provision="0";
 config.caller=['3371234567'];
 

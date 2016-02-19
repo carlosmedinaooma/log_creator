@@ -63,7 +63,7 @@ module.exports = {
       module.exports.drop_call(caller);
 
     
-      console.log(call_log_record);
+     // console.log(call_log_record);
 
   }
 };

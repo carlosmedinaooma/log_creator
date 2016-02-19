@@ -35,6 +35,7 @@ module.exports = {
    
       var call_log_record = new call_logger.CallLogRecord();
       call_log_record.caller = caller;
+      //console.log(call_date_start);
       //var date = new Date(unix_timestamp*1000);
       var call_date_log_start=call_date_start + ' ' +  '14:00:00';
       var call_date_log_end=call_date_start+ ' ' +  '14:00:' + ('00'+duration_seconds).slice(-2);
